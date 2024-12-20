@@ -1,0 +1,182 @@
+[
+    {
+        "id": "carpa-01",
+        "titulo": "Carpa grande 01",
+        "imagen": "./img/grandes/01.jpg",
+        "categoria": {
+            "nombre": "Grandes",
+            "id": "grandes"
+        },
+        "precio": 1000000
+    },
+    {
+        "id": "carpa-02",
+        "titulo": "Carpa grande 02",
+        "imagen": "./img/grandes/02.jpg",
+        "categoria": {
+            "nombre": "Grandes",
+            "id": "grandes"
+        },
+        "precio": 1000000
+    },
+    {
+        "id": "carpa-03",
+        "titulo": "Carpa grande 03",
+        "imagen": "./img/grandes/03.jpg",
+        "categoria": {
+            "nombre": "Grandes",
+            "id": "grandes"
+        },
+        "precio": 1000000
+    },
+    {
+        "id": "carpa-04",
+        "titulo": "Carpa grande 04",
+        "imagen": "./img/grandes/04.jpg",
+        "categoria": {
+            "nombre": "Grandes",
+            "id": "grandes"
+        },
+        "precio": 1000000
+    },
+    {
+        "id": "carpa-05",
+        "titulo": "Carpa grande 05",
+        "imagen": "./img/grandes/05.jpg",
+        "categoria": {
+            "nombre": "Grandes",
+            "id": "grandes"
+        },
+        "precio": 1000000
+    },
+    {
+        "id": "carpa-01",
+        "titulo": "Carpa mediana 01",
+        "imagen": "./img/medianas/01.jpg",
+        "categoria": {
+            "nombre": "Medianas",
+            "id": "medianas"
+        },
+        "precio": 500000
+    },
+    {
+        "id": "carpa-02",
+        "titulo": "Carpa mediana 02",
+        "imagen": "./img/medianas/02.jpg",
+        "categoria": {
+            "nombre": "Medianas",
+            "id": "medianas"
+        },
+        "precio": 500000
+    },
+    {
+        "id": "carpa-03",
+        "titulo": "Carpa mediana 03",
+        "imagen": "./img/medianas/03.jpg",
+        "categoria": {
+            "nombre": "Medianas",
+            "id": "medianas"
+        },
+        "precio": 500000
+    },
+    {
+        "id": "carpa-04",
+        "titulo": "Carpa mediana 04",
+        "imagen": "./img/medianas/04.jpg",
+        "categoria": {
+            "nombre": "Medianas",
+            "id": "medianas"
+        },
+        "precio": 500000
+    },
+    {
+        "id": "carpa-05",
+        "titulo": "Carpa mediana 05",
+        "imagen": "./img/medianas/05.jpg",
+        "categoria": {
+            "nombre": "Medianas",
+            "id": "medianas"
+        },
+        "precio": 500000
+    },
+    {
+        "id": "carpa-06",
+        "titulo": "Carpa mediana 06",
+        "imagen": "./img/medianas/06.jpg",
+        "categoria": {
+            "nombre": "Medianas",
+            "id": "medianas"
+        },
+        "precio": 500000
+    },
+    {
+        "id": "carpa-07",
+        "titulo": "Carpa mediana 07",
+        "imagen": "./img/medianas/07.jpg",
+        "categoria": {
+            "nombre": "Medianas",
+            "id": "medianas"
+        },
+        "precio": 500000
+    },
+    {
+        "id": "carpa-08",
+        "titulo": "Carpa mediana 08",
+        "imagen": "./img/medianas/08.jpg",
+        "categoria": {
+            "nombre": "Medianas",
+            "id": "medianas"
+        },
+        "precio": 500000
+    },
+    {
+        "id": "carpa-01",
+        "titulo": "Carpa pequeña 01",
+        "imagen": "./img/pequeñas/01.jpg",
+        "categoria": {
+            "nombre": "Pequeñas",
+            "id": "pequeñas"
+        },
+        "precio": 200000
+    },
+    {
+        "id": "carpa-02",
+        "titulo": "Carpa pequeña 02",
+        "imagen": "./img/pequeñas/02.jpg",
+        "categoria": {
+            "nombre": "Pequeñas",
+            "id": "pequeñas"
+        },
+        "precio": 200000
+    },
+    {
+        "id": "carpa-03",
+        "titulo": "Carpa pequeña 03",
+        "imagen": "./img/pequeñas/03.jpg",
+        "categoria": {
+            "nombre": "Pequeñas",
+            "id": "pequeñas"
+        },
+        "precio": 200000
+    },
+    {
+        "id": "carpa-04",
+        "titulo": "Carpa pequeña 04",
+        "imagen": "./img/pequeñas/04.jpg",
+        "categoria": {
+            "nombre": "Pequeñas",
+            "id": "pequeñas"
+        },
+        "precio": 200000
+    },
+    {
+        "id": "carpa-05",
+        "titulo": "Carpa pequeña 05",
+        "imagen": "./img/pequeñas/05.jpg",
+        "categoria": {
+            "nombre": "Pequeñas",
+            "id": "pequeñas"
+        },
+        "precio": 200000
+    }
+]
